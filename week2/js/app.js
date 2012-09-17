@@ -1,3 +1,4 @@
 function hello(){
- 	alert("hello, world!");
- 	}
+ 	txt = "Browser Version: " + navigator.appVersion;
+ 	alert(txt);
+ }
